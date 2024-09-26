@@ -16,6 +16,7 @@ const AgeCalculator = () => {
  
         setAge(age);
     };
+    let a = 1;
  
     const resetCalculator = () => {
         setBirthdate('');
